@@ -1,0 +1,16 @@
+{
+  "name": "st1",
+  "version": "1.0.0",
+  "description": "staic crap",
+  "main": "helloworld.js",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "^1.0.0-rc.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
